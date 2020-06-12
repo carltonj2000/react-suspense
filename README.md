@@ -23,3 +23,5 @@ Lesson number and description follows.
 - 118 - Suspense List tail => hidden, collapsed, undefined
 - 120 - augment JSON as early as possible with custom properties
 - 121 - Reusable with as prop, render prop and react fragment
+- 122 - Add next group fetching and spinners
+- 123 - add context
