@@ -19,3 +19,5 @@ Lesson number and description follows.
 - 113 - hoist component state
 - 114 - read() must be done from a component in Suspense and ErrorBoundry
 - 115 - Suspense List
+- 116 17 - Suspense List revealOrder => forwards, backwards, together, undefined
+- 118 - Suspense List tail => hidden, collapsed, undefined
