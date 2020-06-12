@@ -16,3 +16,6 @@ Lesson number and description follows.
 - 108n9n10 - `[use/start]Transition to de-prioritize nonUser-blocking updates`
 - 111 - Delay load of spinner
 - 112 - Get Previous Resource Values with React’s useDeferredState Hook
+- 113 - hoist component state
+- 114 - read() must be done from a component in Suspense and ErrorBoundry
+- 115 - Suspense List
